@@ -1,4 +1,4 @@
-# Fundamentos de Teste de Software
+<h1 align="center" id="title">Fundamentos de Teste de Software</h1>
 
 ## Índice
 
@@ -68,7 +68,7 @@ if __name__ == '__main__':
   unittest.main()
 ```
 
-```powershell
+```bash
 test_isupper (__main__.TestStringMethods.test_isupper) ... ok
 test_split (__main__.TestStringMethods.test_split) ... ok
 test_upper (__main__.TestStringMethods.test_upper) ... ok
